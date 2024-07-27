@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.3"
-  }
+  },
+  "name": "personal_website",
+  "description": "This is my personal website. \r Its purpose is to get me to learn basic web development and showcase my professional materials.",
+  "version": "16.15.1",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamheng89/personal_website.git"
+  },
+  "author": "William Heng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamheng89/personal_website/issues"
+  },
+  "homepage": "https://github.com/williamheng89/personal_website#readme"
 }
